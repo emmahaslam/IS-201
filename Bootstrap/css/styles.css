@@ -10987,9 +10987,9 @@ html {
   font-size: 1.25rem;
 }
 .masthead .masthead-avatar {
-/*   width: 15rem; */
-  width: 240px;
-  height: 360px;
+  width: 15rem;
+/*   width: 240px;
+  height: 360px; */
 }
 
 @media (min-width: 992px) {
